@@ -4,4 +4,4 @@ Description : Fetched Party Balance API Data that allows you to get party's name
 
 Tech Stack Used : ReactJS, Material UI, Redux
 
-Hosted Link :
+
